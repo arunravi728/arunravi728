@@ -8,8 +8,9 @@ I'm a Software Engineer at Google, desigining low-level networking daemons that 
 
 ## Currently Learning
 
-- Multi-agent RL training infrastructure using Ray and SB3.
 - Writing system level code in Rust.
+- Fundamentals of [Distributed Systems](https://arunravi728.github.io/Papyrus/Distributed-Systems0).
+- You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/).
 
 ## 🛠️ Tech Stack
 
