@@ -9,7 +9,7 @@ I'm a Software Engineer at Google, desigining low-level networking daemons that 
 ## Currently Learning
 
 - Writing system level code in Rust.
-- Fundamentals of [Distributed Systems](https://arunravi728.github.io/Papyrus/Distributed-Systems0).
+- Fundamentals of [Distributed Systems](https://arunravi728.github.io/Papyrus/Distributed-Systems).
 - You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/).
 
 ## 🛠️ Tech Stack
