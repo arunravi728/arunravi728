@@ -1,15 +1,15 @@
 # Hi there, I'm Arun!
 
-I'm a Software Engineer at Google, desigining low-level networking daemons that keep the AI cloud humming. After 3+ years in distributed systems and cloud infrastructure, I’ve developed an unhealthy affection for packet drops, race conditions and segfaults.
+I'm a Software Engineer at Google, designing low-level networking daemons that keep the AI cloud humming. After 3+ years in distributed systems and cloud infrastructure, I’ve developed an unhealthy affection for packet drops, race conditions, and segfaults.
 
 - Currently working at Google Cloud in Sunnyvale, California.
-- Master's in Computer Science from University of Wisconsin - Madison.
-- Previously worked at Samung Research in India.
+- Master's in Computer Science from the University of Wisconsin - Madison.
+- Previously worked at Samsung Research in India.
 
 ## Currently Learning
 
 - Writing system level code in Rust.
-- Fundamentals of [Distributed Systems](https://arunravi728.github.io/Papyrus/Distributed-Systems).
+- Fundamentals of [Distributed Systems](https://arunravi728.github.io/Papyrus/Distributed-SystemsFix d).
 - You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/).
 
 ## 🛠️ Tech Stack
