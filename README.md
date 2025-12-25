@@ -22,7 +22,7 @@ You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/
 ```python
 def connect_with_me():
     return {
-        "Email": "arunravi728@gmail.com"
-        "LinkedIn": "www.linkedin.com/in/arunravi728",
+        Email: arunravi728@gmail.com
+        LinkedIn: www.linkedin.com/in/arunravi728,
     }
 ```
