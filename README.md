@@ -10,7 +10,7 @@ You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/
 
 ## Currently Learning
 
-- Building [Triad](https://github.com/arunravi728/Triad) -> A toy Operating Systems written in Rust.
+- Building [Triad](https://github.com/arunravi728/Triad): A toy Operating Systems written in Rust.
 - Learning the fundamentals of Distributed Systems.
 
 ## Tech Stack
