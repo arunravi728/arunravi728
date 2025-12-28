@@ -1,14 +1,6 @@
 # Hi there, I'm Arun!
 
-I'm a Software Engineer at Google, designing low-level networking daemons that powers Google's AI infrastructure. After 3+ years in distributed systems and cloud infrastructure, I’ve developed an unhealthy affection for packet drops, race conditions, and segfaults.
-
-- Currently working at Google in Sunnyvale, California.
-- Master's in Computer Science from the University of Wisconsin - Madison.
-- Previously worked at Samsung Research in India.
-
-You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/).
-
-## Currently Learning
+I'm a Software Engineer at Google, designing low-level networking daemons that runs Google's AI infrastructure. I am currently - 
 
 - Building [Triad](https://github.com/arunravi728/Triad): A toy Operating Systems written in Rust.
 - Learning the fundamentals of Distributed Systems.
