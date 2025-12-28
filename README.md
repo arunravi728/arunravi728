@@ -19,10 +19,11 @@ You can find my second brain at [Papyrus](https://arunravi728.github.io/Papyrus/
 
 ## Let’s Chat
 
-```python
-def connect_with_me():
-    return {
-        Email: 'arunravi728@gmail.com'
-        LinkedIn: 'www.linkedin.com/in/arunravi728',
+```rust
+fn connect_with_me() -> ContactInfo {
+    ContactInfo {
+        email: "arunravi728@gmail.com",
+        linkedin: "www.linkedin.com/in/arunravi728",
     }
+}
 ```
