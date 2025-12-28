@@ -1,9 +1,10 @@
 # Hi there, I'm Arun!
 
-I'm a Software Engineer at Google, designing low-level networking daemons that runs Google's AI infrastructure. I am currently - 
+I'm a Software Engineer at Google, designing low-level networking daemons that powers Google's AI infrastructure. Outside of my regular day job, I am currently - 
 
-- Building [Triad](https://github.com/arunravi728/Triad): A toy Operating Systems written in Rust.
-- Learning the fundamentals of Distributed Systems.
+- Building [Triad](https://github.com/arunravi728/Triad): A Rust based kernel.
+- Learning the fundamentals of Distributed Systems from DDIA.
+- Biking indoors on Zwift (I am almost 50% of the way upto Mt. Everest)
 
 ## Tech Stack
 
