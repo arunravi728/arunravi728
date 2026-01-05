@@ -4,7 +4,7 @@ I'm a Software Engineer at Google, designing low-level networking daemons that p
 
 - Building [Triad](https://github.com/arunravi728/Triad): A 64-bit x86 kernel written in Rust.
 - Learning the fundamentals of Distributed Systems from DDIA.
-- Biking indoors on Zwift (I am almost 50% of the way upto Mt. Everest)
+- Biking indoors on Zwift (I am almost 75% of the way upto Mt. Everest)
 
 ## Tech Stack
 
