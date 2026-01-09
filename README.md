@@ -1,6 +1,6 @@
 # Hi there, I'm Arun!
 
-I'm a Software Engineer at Google, designing low-level networking daemons that powers Google's AI infrastructure. Outside of my regular day job, I am currently - 
+I'm a software engineer designing low-level networking daemons that powers Google's AI infrastructure. Outside of my regular day job, I am currently - 
 
 - Building [Triad](https://github.com/arunravi728/Triad): A 64-bit x86 kernel written in Rust.
 - Learning the fundamentals of Distributed Systems from DDIA.
