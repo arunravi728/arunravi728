@@ -4,7 +4,7 @@ I'm a software engineer designing low-level networking daemons that powers Googl
 
 - Building [Triad](https://github.com/arunravi728/Triad): A 64-bit x86 kernel written in Rust.
 - Learning the fundamentals of Distributed Systems from DDIA.
-- Reading one classic computer systems paper a week. You can find my reading list at [Papyrus](https://arunravi728.github.io/Papyrus/).
+- Reading how computer hardware and software work together to run a program from CS:APP.
 - Biking indoors on Zwift (I am almost 90% of the way upto Mt. Everest)
 
 ## Tech Stack
