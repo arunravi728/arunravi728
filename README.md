@@ -3,9 +3,9 @@
 I'm a software engineer designing low-level networking daemons that powers Google's AI infrastructure. Outside of my regular day job, I am currently - 
 
 - Building [Triad](https://github.com/arunravi728/Triad): A 64-bit x86 kernel written in Rust.
-- Learning the fundamentals of Distributed Systems from DDIA.
 - Reading how computer hardware and software work together to run a program from CS:APP.
-- Biking indoors on Zwift (I am almost 90% of the way upto Mt. Everest)
+- Learning the fundamentals of Distributed Systems from DDIA.
+- Biking by California's hills and beaches.
 
 ## Tech Stack
 
