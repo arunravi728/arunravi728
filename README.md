@@ -3,8 +3,8 @@
 I'm a software engineer designing low-level networking daemons that powers Google's AI infrastructure. Outside of my regular day job, I am currently - 
 
 - Building [Triad](https://github.com/arunravi728/Triad): A 64-bit x86 kernel written in Rust.
-- Reading how computer hardware and software work together to run a program from CS:APP.
-- Learning the fundamentals of Opertaing Systems from OSTEP.
+- Reading how computer hardware and software work together to run a program from [CS:APP](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf).
+- Learning the fundamentals of Opertaing Systems from [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 - Biking by California's hills and beaches.
 
 ## Tech Stack
