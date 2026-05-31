@@ -14,7 +14,7 @@ I'm a software engineer designing low-level networking daemons that powers Googl
 ## Let’s Chat
 
 ```rust
-fn connect_with_me() -> MyEmail {
+fn my_email() {
     "arunravi728@gmail.com"
 }
 ```
