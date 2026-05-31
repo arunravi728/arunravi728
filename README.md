@@ -14,7 +14,9 @@ I'm a software engineer designing low-level networking daemons that powers AI in
 ## Let’s Chat
 
 ```rust
-fn my_email() {
-    "arunravi728@gmail.com"
+fn connect() -> ContactInfo {
+    ContactInfo {
+        email: "arunravi728@gmail.com"
+    }
 }
 ```
