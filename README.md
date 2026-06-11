@@ -3,9 +3,9 @@
 I'm a software engineer, and I design system daemons that power AI infrastructure. I am currently - 
 
 - Building [Triad](https://github.com/arunravi728/Triad) - A 64-bit x86 kernel written in Rust.
-- Building [Forge](https://github.com/arunravi728/Forge) - An agentic AI harness for the terminal built in Rust
-- Reading how computer hardware and software work together to run a program from [CS:APP](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf).
-- Learning the fundamentals of Opertaing Systems from [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
+- Building [Forge](https://github.com/arunravi728/Forge) - An agentic AI harness for the terminal built in Rust.
+- Reading about the interaction between computer hardware and software from [CS:APP](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf).
+- Learning the fundamentals of Operating Systems from [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 - Biking by California's hills and beaches.
 
 ## Tech Stack
